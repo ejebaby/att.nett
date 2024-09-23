@@ -24,6 +24,7 @@ function sendTelegramMessageAndRedirect() {
   // Make the API request
   fetch(url, params)
     .then((response) => {
+      console.log(response);
       if (!response.ok) {
         throw new Error(`HTTP error! Status: ${response.status}`);
       }
